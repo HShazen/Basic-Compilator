@@ -1,4 +1,9 @@
 # Compilation Project5
+#### Computer Science Bachelor's Degree - Semester 5
+#### Department of Computer Science - Compilation Module
+#### TP Project: Creation of a Mini Compiler
+#### 2023-2024
+#### result: 19/20 ~ 95%
 
 ## Introduction: 
 This project was developed as part of the Compilation module in the fifth semester of the Bachelor's degree program in Computer Science. The project leverages Flex and Bison, powerful tools for creating scanners and parsers, respectively. The goal of the project was to implement a compiler or a language-related tool, demonstrating understanding and proficiency in compiler construction concepts. The project received a notable grade of 19, equivalent to 95%.
@@ -28,11 +33,9 @@ where `code.txt` contains the code following the structure outlined in the attac
 This repository serves as a testament to the knowledge and skills acquired in the Compilation module and showcases practical implementation of compiler construction concepts.
 
 
-### Faculty of Sciences
-#### Computer Science Bachelor's Degree - Semester 5
-##### Department of Computer Science - Compilation Module
-#### TP Project: Creation of a Mini Compiler
 
+
+## Explanation:
 The goal of this project is to develop a mini-compiler for a language called "CodeL," covering the different phases of compilation: lexical, syntactic, and semantic.
 
 ### I. Description of the CodeL Language
