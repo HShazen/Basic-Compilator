@@ -84,8 +84,7 @@ Good luck!
 ### Instructions Description
 Instruction | Description | Example
 --- | --- | ---
-Assignment | Idf := arithmetic expression; | A := C * B;
- | | A := 2;
+Assignment | Idf := arithmetic expression; | A := C * B;<br> A := 2;
 For Loop | For (var := valInit, condition, counter) { Block Instructions } | For (I := 1; i <= 10; i++) { B := B + 2; }
 Condition | If (Condition) { Block instructions} else { Block instructions} | If (a == 2) { B := 5; C := B + 1; }
 
