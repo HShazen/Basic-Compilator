@@ -1,9 +1,12 @@
 # Compilation Project5
-#### Computer Science Bachelor's Degree - Semester 5
-#### Department of Computer Science - Compilation Module
-#### TP Project: Creation of a Mini Compiler
-#### 2023-2024
-#### result: 19/20 ~ 95%
+Computer Science Bachelor's Degree - Semester 5 <br>
+Department of Computer Science - Compilation Module
+<br>
+TP Project: Creation of a Mini Compiler
+<br>
+2023-2024
+<br>
+result: 19/20 ~ 95%
 
 ## Introduction: 
 This project was developed as part of the Compilation module in the fifth semester of the Bachelor's degree program in Computer Science. The project leverages Flex and Bison, powerful tools for creating scanners and parsers, respectively. The goal of the project was to implement a compiler or a language-related tool, demonstrating understanding and proficiency in compiler construction concepts. The project received a notable grade of 19, equivalent to 95%.
