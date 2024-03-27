@@ -1,0 +1,7 @@
+Write those commandes on terminal
+
+bison -d synt.y
+flex lex.l
+gcc lex.yy.c synt.tab.c -o test
+
+.\test.exe code.txt
