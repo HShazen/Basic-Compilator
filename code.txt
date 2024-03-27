@@ -1,0 +1,41 @@
+BOOL B;
+FLOAT Y1, Y2, Y3;
+INT I, I1, I2, J;
+CHAR C;
+STRING STR;
+
+CONST STRING S = "HICHAM";
+CONST CHAR CAR = '\n';
+CONST INT P = 5, H = 2; 
+CONST BOOL B1= true, B2 = true;
+CONST FLOAT Z1 = 2.21656456, Z2 = 1.2;
+INT Function ADD(INT I, INT J) {
+	
+	Return I + J;
+}
+BEGIN
+    I := 2 + 2 + (3 * 3) * 9;
+	J := 2;
+	/*J := 2.2;
+	J := true;
+	J := CAR;
+	B1:= false;
+	B1 := CAR;*/
+	For (I := 0; I < 20; I++) {
+		Break;
+	}
+	For (I:= 0; I <= 20; I := I + 2){
+
+
+	}
+	While(J <> '0') {
+		J := 2;
+	}
+	If (I == I) {
+
+	}elseIf(I == I){
+
+	}else{
+
+	}
+END
