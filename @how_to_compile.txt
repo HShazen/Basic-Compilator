@@ -1,7 +1,10 @@
 Write those commandes on terminal
+#execute each one by one or the first three than the last to avoid problems
 
+#1
 bison -d synt.y
 flex lex.l
 gcc lex.yy.c synt.tab.c -o test
 
+#2
 .\test.exe code.txt
